@@ -1,5 +1,5 @@
 {
-  "name": "@findly/test-findly",
+  "name": "test-findly",
   "version": "0.0.1",
   "description": "测试",
   "main": "index.js",
