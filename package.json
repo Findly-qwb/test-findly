@@ -9,7 +9,7 @@
   "keywords": [
     "测试"
   ],
-  "author": "",
+  "author": "qiuwenbin",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
